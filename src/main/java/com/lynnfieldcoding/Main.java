@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.SplittableRandom;
 
-//video
 public class Main {
 
     // a list of possible characters, they get removed as they are guessed
